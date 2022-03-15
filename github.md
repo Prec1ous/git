@@ -10,7 +10,7 @@
 | 拉取远程库到本地库 | git pull "别名" "分支名" | 
 | 克隆远程库到本地库 | git clone "远程链接" | 
 
-![github基础操作图](./img/github1.jpg)
+![github基础操作图](https://img.php.cn/upload/image/719/194/534/1641535866915411.png)
 
 - fork 从他人的远程库复制到自己的远程库
 - Pull request 从自己的远程库发送推送请求到他人的远程库
