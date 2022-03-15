@@ -21,5 +21,7 @@ pull  将本地库文件把工作区文件进行更新
 push  将暂存区文件推送到本地库    
 clone 将本地库文件克隆到工作区    
 
-.[github]{github.md}
-.[IDEA]{IDEA-git.md}
+***************************************************
+- .[github](./github.md)   
+- .[gitee](./gitee.md)   
+- .[IDEA](./IDEA-git.md)   
